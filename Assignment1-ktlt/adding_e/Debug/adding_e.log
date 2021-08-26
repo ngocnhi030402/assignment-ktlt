@@ -1,0 +1,8 @@
+﻿  adding_e.cpp
+C:\Users\Bich\source\repos\Assignment1-ktlt\adding_e\adding_e.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bich\source\repos\Assignment1-ktlt\adding_e\adding_e.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bich\source\repos\Assignment1-ktlt\adding_e\adding_e.cpp(38,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bich\source\repos\Assignment1-ktlt\adding_e\adding_e.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bich\source\repos\Assignment1-ktlt\adding_e\adding_e.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bich\source\repos\Assignment1-ktlt\adding_e\adding_e.cpp(75,25): warning C4018: '<': signed/unsigned mismatch
+  adding_e.vcxproj -> C:\Users\Bich\source\repos\Assignment1-ktlt\Debug\adding_e.exe

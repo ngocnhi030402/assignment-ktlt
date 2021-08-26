@@ -1,0 +1,5 @@
+﻿  check_check.cpp
+C:\Users\Bich\source\repos\Assignment1-ktlt\check_check\check_check.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bich\source\repos\Assignment1-ktlt\check_check\check_check.cpp(108,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bich\source\repos\Assignment1-ktlt\check_check\check_check.cpp(103,19): warning C4101: 'y': unreferenced local variable
+  check_check.vcxproj -> C:\Users\Bich\source\repos\Assignment1-ktlt\Debug\check_check.exe

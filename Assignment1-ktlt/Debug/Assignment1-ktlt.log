@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(46,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(566,17): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(568,28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(571,28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(574,28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(577,28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(580,22): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(602,24): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(603,26): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(605,24): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(644,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Bich\source\repos\Assignment1-ktlt\mongol.h(650,10): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  Assignment1-ktlt.vcxproj -> C:\Users\Bich\source\repos\Assignment1-ktlt\Debug\Assignment1-ktlt.exe
